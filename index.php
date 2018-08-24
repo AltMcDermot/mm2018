@@ -15,8 +15,8 @@
   integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
   crossorigin="anonymous"></script>
 </head>
-<body>
-	<section  class="hero is-fullheight has-background-black-ter">
+<body class="has-background-black-ter">
+	<section  class="hero is-fullheight">
 	  <div class="hero-body">
 	    <div class="container">
 
