@@ -64,19 +64,19 @@
 			<h2 class="title has-text-white">Appears On</h2>
 			<div class="columns">
 				<article class="column is-one-quarter">
-					<figure class="image is-square"><img src="http://placebacon.net/400/400" alt=""></figure>
+					<figure class="image is-square"><img src="http://placekitten.com/400/400" alt=""></figure>
 					<h3 class="subtitle has-text-white is-size-4">Album Name</h3>
 				</article>
 				<article class="column is-one-quarter">
-					<figure class="image is-square"><img src="http://placebacon.net/400/400" alt=""></figure>
+					<figure class="image is-square"><img src="http://placekitten.com/400/400" alt=""></figure>
 					<h3 class="subtitle has-text-white is-size-4">Album Name</h3>
 				</article>
 				<article class="column is-one-quarter">
-					<figure class="image is-square"><img src="http://placebacon.net/400/400" alt=""></figure>
+					<figure class="image is-square"><img src="http://placekitten.com/400/400" alt=""></figure>
 					<h3 class="subtitle has-text-white is-size-4">Album Name</h3>
 				</article>
 				<article class="column is-one-quarter">
-					<figure class="image is-square"><img src="http://placebacon.net/400/400" alt=""></figure>
+					<figure class="image is-square"><img src="http://placekitten.com/400/400" alt=""></figure>
 					<h3 class="subtitle has-text-white is-size-4">Album Name</h3>
 				</article>
 			</div>
