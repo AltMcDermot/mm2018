@@ -23,16 +23,16 @@
 	    	<div id="home" class="splash-menu has-text-white-ter is-centered">
 	    		<svg id="cross" viewBox=""></svg>
 	    		<div class="has-text-centered">
-	    			<p class="is-size-3">MM</p>
+	    			<p class="is-size-3">Welcome</p>
 	    		</div>
 	    		<div class="has-text-centered">
-	    			<p class="is-size-3">MU</p>
+	    			<p class="is-size-3">Music</p>
 	    		</div>
 	    		<div class="has-text-centered">
-	    			<p class="is-size-3">CO</p>
+	    			<p class="is-size-3">Code</p>
 	    		</div>
 	    		<div class="has-text-centered">
-	    			<p class="is-size-3">BL</p>
+	    			<p class="is-size-3">Blog</p>
 	    		</div>
 	    </div>
 
@@ -54,7 +54,7 @@
 				strokeWidth: 3,
 				strokeLinecal: 'round'
 			})
-			new Vivus('cross', {duration: 200}, );
+			new Vivus('cross', {duration: 50}, );
 		})
 	</script>
 
